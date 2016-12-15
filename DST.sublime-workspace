@@ -1,0 +1,1698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Qu",
+				"QuestionSerializer〔class〕"
+			],
+			[
+				"__",
+				"__all__"
+			],
+			[
+				"Res",
+				"ResponseSerializer"
+			],
+			[
+				"Sur",
+				"SurveySerializer"
+			],
+			[
+				"surve",
+				"survey_list〔function〕"
+			],
+			[
+				"Surve",
+				"SurveySerializer〔module〕"
+			],
+			[
+				"Surv",
+				"SurveySerializer〔module〕"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"acc",
+				"access_token_secret"
+			],
+			[
+				"cons",
+				"consumer_secret"
+			],
+			[
+				"loadDev",
+				"loadDevicesMobile〔function〕"
+			],
+			[
+				"selected",
+				"selectedBrand"
+			],
+			[
+				"cp-devi",
+				"cp-device-ori"
+			],
+			[
+				"innerH",
+				"innerHtml"
+			],
+			[
+				"hide",
+				"hideAll"
+			],
+			[
+				"brand",
+				"brandList〔variable〕"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"additon",
+				"additional-info-tabs"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"sq",
+				"sqrContainer"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"select",
+				"selectedBrand"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"asp",
+				"aspectRatioCorrect"
+			],
+			[
+				"myI",
+				"myImgWidth"
+			],
+			[
+				"myIm",
+				"myImgHeight"
+			],
+			[
+				"bod",
+				"body-color-picker"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"htc",
+				"htc-brand"
+			],
+			[
+				"bra",
+				"brand-selector"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"is",
+				"istransparentAvailable"
+			],
+			[
+				"trans",
+				"transparentFeaturePhones〔variable〕"
+			],
+			[
+				"collapse",
+				"div.collapse"
+			],
+			[
+				"Brand",
+				"BrandonText-Light"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"tet",
+				"text-align: 〔property〕"
+			],
+			[
+				"boo",
+				"booking_slot"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"q",
+				"queryset"
+			],
+			[
+				"qu",
+				"query_dict"
+			],
+			[
+				"b",
+				"backoffice"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"STAT",
+				"STATICFILES_STORAGE"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"DE",
+				"RetrieveUpdateDestroyAPIView〔class〕"
+			],
+			[
+				"List",
+				"ListCreateAPIView〔class〕"
+			],
+			[
+				"bookin",
+				"booking_detail〔function〕"
+			],
+			[
+				"booking",
+				"booking_list〔function〕"
+			],
+			[
+				"Book",
+				"BookingSerializer"
+			],
+			[
+				"JSONR",
+				"JSONResponse〔class〕"
+			],
+			[
+				"JSON",
+				"JSONResponse〔class〕"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"Invent",
+				"InventoryAdmin〔class〕"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"req",
+				"requestUrl〔argument〕"
+			],
+			[
+				"wr",
+				"writeExercises"
+			],
+			[
+				"cate",
+				"categoryImageURL〔argument〕"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"gra",
+				"grappelli.urls"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"color",
+				"primary-color"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"seco",
+				"secondary-color"
+			],
+			[
+				"backgr",
+				"background-image: 〔property〕"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"device",
+				"device-selector"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Bookin",
+				"BookingAdmin〔class〕"
+			],
+			[
+				"kids",
+				"kids-primary"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"sans",
+				"Sans"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"col-lg-",
+				"col-lg-6"
+			],
+			[
+				"them",
+				"theme-primary"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"content",
+				"content\tTag"
+			],
+			[
+				"ad",
+				"admin_site"
+			],
+			[
+				"E",
+				"EscapologyAdminSite"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"shado",
+				"box-shadow"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"top",
+				"topics"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"height",
+				"height: 〔property〕"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"50",
+				"50px"
+			],
+			[
+				"sy",
+				"systemjs"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "survey/views.py",
+			"settings":
+			{
+				"buffer_size": 2500,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "disApp/urls.py",
+			"settings":
+			{
+				"buffer_size": 818,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "survey/serializers.py",
+			"settings":
+			{
+				"buffer_size": 517,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/models.py",
+			"settings":
+			{
+				"buffer_size": 3327,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "survey/forms.py",
+			"settings":
+			{
+				"buffer_size": 3953,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/templates/survey/survey.html",
+			"settings":
+			{
+				"buffer_size": 2688,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/templates/survey/index.html",
+			"settings":
+			{
+				"buffer_size": 3033,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 317.0,
+		"last_filter": "ssbabe",
+		"selected_items":
+		[
+			[
+				"ssbabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Passion Projects/DST/disApp",
+		"/D/Passion Projects/DST/disApp/survey"
+	],
+	"file_history":
+	[
+		"/D/Passion Projects/CSGOSell/csgosell/templates/base.html",
+		"/C/Users/Arnav/AppData/Local/Temp/Temp1_python-getting-started-master.zip/python-getting-started-master/app.json",
+		"/D/Passion Projects/DST/disApp/survey/urls.py",
+		"/D/Passion Projects/DST/disApp/disApp/settings.py",
+		"/D/Passion Projects/DST/disApp/disApp/urls.py",
+		"/D/Passion Projects/DST/disApp/survey/models.py",
+		"/D/Passion Projects/DST/disApp/survey/forms.py",
+		"/D/Passion Projects/DST/disApp/survey/admin.py",
+		"/D/Passion Projects/CSGOSell/csgosell/x.html",
+		"/C/Users/Arnav/Documents/escapology-django/Escapology/home/templates/home/index.html",
+		"/D/Passion Projects/TwitterBot/package.json",
+		"/D/Passion Projects/TwitterBot/config.js",
+		"/D/Passion Projects/TwitterBot/bot.js",
+		"/D/Passion Projects/TwitterBot/.gitignore",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/product-list.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/js/global.js",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocklayered/blocklayered.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/global.css",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/product.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/js/modules/blocklayered/blocklayered.js",
+		"/C/wamp/www/prestashop/modules/ccase/css/stylesheets/styles.css",
+		"/C/wamp/www/prestashop/modules/ccase/views/templates/front/ccase.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/product.css",
+		"/C/wamp/www/prestashop/modules/ccase/js/ccase.js",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-steps.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-carrier.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/shopping-cart.tpl",
+		"/C/wamp/www/prestashop/controllers/front/OrderController.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/blocksearch/blocksearch.css",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6 Plus/g_2/grid.html",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blockcontact/nav.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/header.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/posmegamenu/css/custommenu.css",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6 Plus/g_8/grid.html",
+		"/C/wamp/www/prestashop/modules/posmegamenu/megamenu.tpl",
+		"/C/wamp/www/prestashop/modules/posmegamenu/posmegamenu.php",
+		"/C/wamp/www/prestashop/modules/blockcategories/blockcategories.php",
+		"/C/wamp/www/prestashop/modules/posmegamenu/megatoplinks.class.php",
+		"/C/wamp/www/prestashop/modules/posmegamenu/blockcategories.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocktopmenu/blocktopmenu.tpl",
+		"/C/wamp/www/prestashop/modules/posproductcategory/posproductcategory.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/postabproduct/postabproduct.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/productscategory/productscategory.tpl",
+		"/C/wamp/www/prestashop/themes/celfidesign/modules/homefeatured/tab.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/productcomments/tab.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/homefeatured/homefeatured.tpl",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6 Plus/g_1/grid.html",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6 Plus/data.json",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6/g_1/grid.html",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/iPhone6/data.json",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/homeslider/homeslider.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/posslideshow/slideshow.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/posslideshow/css/nivo-slider/nivo-slider.css",
+		"/D/NetworkMedia-Celfie/paymentgateway/.htaccess",
+		"/D/NetworkMedia-Celfie/paymentgateway/config.inc.php",
+		"/D/NetworkMedia-Celfie/paymentgateway/index.php",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/Samsung S4/g_1/grid.html",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/Moto Nexus 6/g_1/grid.html",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/product-sort.tpl",
+		"/D/Passion Projects/DST/django-survey-master/survey/settings.py",
+		"/D/Passion Projects/DST/django-survey-master/survey/urls.py",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/js/product.js",
+		"/C/wamp/www/prestashop/modules/posmegamenu/config.xml",
+		"/C/wamp/www/prestashop/modules/ccase/config/templet/Galaxy Note 2/g_1/grid.html",
+		"/C/Users/Arnav/Documents/bedtime-stories-app/app/build.gradle",
+		"/C/Users/Arnav/Documents/bedtime-stories-app/settings.gradle",
+		"/C/Users/Arnav/Documents/bedtime-stories-app/build.gradle",
+		"/D/NetworkMedia-Celfie/Latest Designs/19-Nov/getUrls.py",
+		"/C/wamp/www/prestashop/modules/ccase/controllers/front/customphone.php",
+		"/C/wamp/www/prestashop/modules/ccase/js/cp-lib-min.js",
+		"/C/wamp/www/prestashop/modules/ccase/js/cropper.min.js",
+		"/C/Users/Arnav/AppData/Local/Temp/Temp1_cropper-master.zip/cropper-master/dist/cropper.js",
+		"/C/Users/Arnav/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Arnav/Desktop/customphone.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/breadcrumb.tpl",
+		"/C/Users/Arnav/Desktop/bootstrap.css",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/authentication.tpl",
+		"/D/Brownfingers/website/browndev/Scripts/django-admin.py",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/js/authentication.js",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/referralprogram/views/templates/hook/authentication.tpl",
+		"/C/wamp/www/prestashop/images.inc.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/my-account.tpl",
+		"/C/wamp/www/prestashop/modules/blocklayered/blocklayered.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/blockcart/blockcart.css",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blockcart/blockcart.tpl",
+		"/D/Passion Projects/Jitendra Sir/RTP/RTP_PUNE_TOILETS_ON_MAP/index.html",
+		"/D/Passion Projects/Jitendra Sir/RTP/RTP_LWRD_SAMPLE_INTERACTIVE_MAP/data/json_sampletoiletsurvey0.js",
+		"/D/My Thoughts/What am I trying to achieve.md",
+		"/C/wamp/www/prestashop/modules/socialsharing/views/templates/hook/socialsharing.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocksocial/blocksocial.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/blocknewsletter/blocknewsletter.css",
+		"/C/wamp/www/prestashop/modules/ccase/css/stylesheets/cropper.css",
+		"/C/wamp/www/prestashop/modules/ccase/api/html2canvasproxy.php",
+		"/C/wamp/www/prestashop/modules/ccase/server/php/save.php",
+		"/C/wamp/www/prestashop/modules/ccase/server/php/traitement.php",
+		"/D/NetworkMedia-Celfie/AmazonServer/backups/.htaccess",
+		"/C/wamp/www/prestashop/modules/ccase/js/interact.min.js",
+		"/C/Users/Arnav/Downloads/ccase.tpl",
+		"/D/NetworkMedia-Celfie/AmazonServer/backups/httpd.conf",
+		"/C/Users/Arnav/Downloads/traitement.php",
+		"/C/Users/Arnav/Downloads/save.php",
+		"/C/Users/Arnav/Downloads/traitement_new.php",
+		"/C/wamp/www/prestashop/modules/ccase/ccase.php",
+		"/C/wamp/www/prestashop/modules/ccase/models/CcaseModel.php",
+		"/D/NetworkMedia-Celfie/AmazonServer/backups/styles.css",
+		"/C/wamp/www/prestashop/modules/ccase/setPrice.php",
+		"/C/wamp/www/prestashop/modules/ccase/server/php/UploadHandler.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/footer.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocknewsletter/blocknewsletter.tpl",
+		"/D/Learning/fitness app/index.html",
+		"/D/Learning/fitness app/firebase-script.js",
+		"/D/NetworkMedia-Celfie/AmazonServer/.htaccess",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/postabproduct/postabproduct.css",
+		"/C/wamp/www/prestashop/modules/postabproduct/postabproduct.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/shopping-cart-advanced.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/shopping-cart-product-line.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-carrier-advanced.tpl",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-opc-new-account.tpl",
+		"/C/wamp/www/prestashop/classes/pdf/HTMLTemplateDeliverySlip.php",
+		"/C/wamp/www/prestashop/pdf/invoice-b2b.tpl",
+		"/C/wamp/www/prestashop/pdf/delivery-slip.payment-tab.tpl",
+		"/C/wamp/www/prestashop/pdf/delivery-slip.tpl",
+		"/C/wamp/www/prestashop/classes/pdf/index.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/category.tpl",
+		"/C/wamp/www/prestashop/modules/posmegamenu/js/mobile_menu.js",
+		"/C/wamp/www/prestashop/config/smarty.config.inc.php",
+		"/C/wamp/www/settings.inc.php",
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-address.tpl"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\prestashop\\themes\\pos_hugeshop11, C:\\wamp\\www\\prestashop\\",
+			"C:\\wamp\\www\\prestashop\\themes\\pos_hugeshop11",
+			"C:\\wamp\\www\\prestashop\\themes\\pos_hugeshop11,C:\\wamp\\www\\prestashop\\",
+			"C:\\wamp\\www\\prestashop\\themes\\pos_hugeshop11,",
+			"C:\\wamp\\www\\prestashop\\classes",
+			"C:\\wamp\\www\\prestashop\\controllers\\front",
+			"C:\\wamp\\www\\prestashop\\,",
+			"C:\\wamp\\www\\prestashop\\themes\\pos_hugeshop11,",
+			"C:\\wamp\\www\\prestashop\\themes\\celfidesign,",
+			"C:\\wamp\\www\\prestashop\\modules\\ccase",
+			"C:\\wamp\\www\\prestashop\\themes\\celfidesign,",
+			"C:\\wamp\\www\\prestashop\\themes\\celfidesign"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"brand-selector-mobile",
+			"loadDevices",
+			"select devi",
+			"reloadContent",
+			"min-widt",
+			"media screen",
+			"add to cart",
+			"slider_row",
+			"media screen",
+			"media screen and",
+			"step",
+			"four",
+			"choose a shipp",
+			"Choose a shipping",
+			"Shipping",
+			"opc",
+			"trash",
+			"#cp-start",
+			"HTC",
+			"100px",
+			"\\.cp-row \\.cp-device",
+			"#cp-start",
+			"cp-sel-device",
+			"cp-device-ori",
+			"html2Canvas",
+			"previewCase",
+			"loadTemplet",
+			"          \n",
+			"container-->",
+			"centerImg",
+			"animateStep",
+			"templet",
+			"by uploading",
+			"javascript:void\\(0\\)",
+			"javascript:void(0)",
+			"fileinput",
+			"cp-btn-more-pic",
+			"font",
+			".nav-tabs-main li",
+			"editor-menu-cont",
+			"#editor-",
+			"mobile-edit",
+			"#editor-men",
+			"mobile-editor-menu",
+			"zoom",
+			"Add to Cart",
+			"fa-",
+			"script",
+			"exclusive",
+			"block_right_in",
+			"\"nav_content\"",
+			"block currencies module",
+			"blockCategTree",
+			"getblockCategTree",
+			"BLOCK_CATEG_MAX_DEPTH",
+			"children",
+			"blockcategTree",
+			"blockcate",
+			"cate",
+			"block",
+			"blockCategTree",
+			"branche_tpl_path",
+			"pt_custommenu_itemmobile",
+			"category_tabs_slider",
+			"ha",
+			"Handpicked",
+			"own",
+			"chooseTEmp",
+			"chooseTemplet",
+			"loadTemplet",
+			"templet",
+			"loadtemplet",
+			"media screen",
+			"prestashop",
+			"samsung",
+			"cp-huawei-dev",
+			"cp-lenovo-dev",
+			"xiaomi",
+			"cp-xiaomi-dev",
+			"id=\"cp-xiaomi-dev",
+			"id=\"cp-moto-dev",
+			"cp-moto",
+			"moto",
+			"xiaomi",
+			"HTC-brand",
+			"HTC",
+			"lenovo",
+			"nokia",
+			"faq",
+			"src",
+			"url",
+			"samsung",
+			"templet",
+			"show",
+			"sortpag",
+			"grid",
+			"cp-title",
+			"Layout",
+			"cp-title",
+			"gloss",
+			"arrow",
+			"back",
+			"title-ste",
+			"title",
+			"header",
+			"selected",
+			"android ",
+			"font-fam",
+			"load",
+			"loadDev",
+			"bread",
+			"brandL",
+			"brand",
+			"highdpi",
+			"highdpo",
+			"display",
+			"oppo",
+			"huawei",
+			"select",
+			"img",
+			"popup",
+			"class=\"itemMenuName",
+			"id=\"pt_custommenu\"",
+			"itemMenuName",
+			".tab-content",
+			"editor-menu",
+			"mobile-editor-menu",
+			"Editor-menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "survey/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								2469
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "disApp/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "survey/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "survey/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 597.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "survey/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "survey/templates/survey/survey.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1916
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1451.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "survey/templates/survey/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2393,
+								2393
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "DST.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"f",
+				"survey\\forms.py"
+			],
+			[
+				"mod",
+				"survey\\models.py"
+			],
+			[
+				"urls",
+				"disApp\\urls.py"
+			],
+			[
+				"mode",
+				"survey\\models.py"
+			],
+			[
+				"adm",
+				"survey\\admin.py"
+			],
+			[
+				"for",
+				"survey\\forms.py"
+			],
+			[
+				"views",
+				"survey\\views.py"
+			],
+			[
+				"set",
+				"disApp\\settings.py"
+			],
+			[
+				"global.js",
+				"pos_hugeshop11\\js\\global.js"
+			],
+			[
+				"product-l",
+				"pos_hugeshop11\\product-list.tpl"
+			],
+			[
+				"prod",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"blocklae",
+				"pos_hugeshop11\\modules\\blocklayered\\blocklayered.tpl"
+			],
+			[
+				"product-list",
+				"pos_hugeshop11\\product-list.tpl"
+			],
+			[
+				"layered",
+				"pos_hugeshop11\\js\\modules\\blocklayered\\blocklayered.js"
+			],
+			[
+				"global.css",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"product.tpl",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"product.css",
+				"pos_hugeshop11\\css\\product.css"
+			],
+			[
+				"ccase.js",
+				"ccase\\js\\ccase.js"
+			],
+			[
+				"styles",
+				"ccase\\css\\stylesheets\\styles.css"
+			],
+			[
+				"ccase.t",
+				"ccase\\views\\templates\\front\\ccase.tpl"
+			],
+			[
+				"order-carrie",
+				"pos_hugeshop11\\order-carrier.tpl"
+			],
+			[
+				"shopping",
+				"pos_hugeshop11\\shopping-cart.tpl"
+			],
+			[
+				"ops",
+				"pos_hugeshop11\\order-steps.tpl"
+			],
+			[
+				"style",
+				"ccase\\css\\stylesheets\\styles.css"
+			],
+			[
+				"ccase.tp",
+				"ccase\\views\\templates\\front\\ccase.tpl"
+			],
+			[
+				"sty",
+				"ccase\\css\\stylesheets\\styles.css"
+			],
+			[
+				"blocksearc",
+				"pos_hugeshop11\\css\\modules\\blocksearch\\blocksearch.css"
+			],
+			[
+				"glob",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"product",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"header",
+				"pos_hugeshop11\\header.tpl"
+			],
+			[
+				"nav",
+				"pos_hugeshop11\\modules\\blockcontact\\nav.tpl"
+			],
+			[
+				"ccase.tpl",
+				"ccase\\views\\templates\\front\\ccase.tpl"
+			],
+			[
+				"glo",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"menu",
+				"pos_hugeshop11\\modules\\blocktopmenu\\blocktopmenu.tpl"
+			],
+			[
+				"custom",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"posproductcate",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"tab",
+				"pos_hugeshop11\\modules\\productcomments\\tab.tpl"
+			],
+			[
+				"postab",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"featured",
+				"pos_hugeshop11\\modules\\homefeatured\\homefeatured.tpl"
+			],
+			[
+				"ccase",
+				"ccase\\js\\ccase.js"
+			],
+			[
+				"globa",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"nivo",
+				"pos_hugeshop11\\css\\modules\\posslideshow\\css\\nivo-slider\\nivo-slider.css"
+			],
+			[
+				"posslides",
+				"pos_hugeshop11\\modules\\posslideshow\\slideshow.tpl"
+			],
+			[
+				"slider",
+				"pos_hugeshop11\\modules\\homeslider\\homeslider.tpl"
+			],
+			[
+				"prodcut-so",
+				"pos_hugeshop11\\product-sort.tpl"
+			],
+			[
+				"product-so",
+				"pos_hugeshop11\\product-sort.tpl"
+			],
+			[
+				"product.js",
+				"pos_hugeshop11\\js\\product.js"
+			],
+			[
+				"slides",
+				"pos_hugeshop11\\modules\\posslideshow\\slideshow.tpl"
+			],
+			[
+				"global",
+				"pos_hugeshop11\\js\\global.js"
+			],
+			[
+				"produ",
+				"pos_hugeshop11\\css\\product.css"
+			],
+			[
+				"cropper",
+				"ccase\\js\\cropper.min.js"
+			],
+			[
+				"produc",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"gl",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"bread",
+				"pos_hugeshop11\\breadcrumb.tpl"
+			],
+			[
+				"product-sor",
+				"pos_hugeshop11\\product-sort.tpl"
+			],
+			[
+				"blocklay",
+				"pos_hugeshop11\\modules\\blocklayered\\blocklayered.tpl"
+			],
+			[
+				"authe",
+				"pos_hugeshop11\\modules\\referralprogram\\views\\templates\\hook\\authentication.tpl"
+			],
+			[
+				"authenti",
+				"pos_hugeshop11\\js\\authentication.js"
+			],
+			[
+				"acc",
+				"pos_hugeshop11\\my-account.tpl"
+			],
+			[
+				"aut",
+				"pos_hugeshop11\\authentication.tpl"
+			],
+			[
+				"blockcart",
+				"pos_hugeshop11\\modules\\blockcart\\blockcart.tpl"
+			],
+			[
+				"layerd",
+				"pos_hugeshop11\\modules\\blocklayered\\blocklayered.tpl"
+			],
+			[
+				"blocksear",
+				"pos_hugeshop11\\css\\modules\\blocksearch\\blocksearch.css"
+			],
+			[
+				"heade",
+				"pos_hugeshop11\\header.tpl"
+			],
+			[
+				"productcate",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"social",
+				"socialsharing\\views\\templates\\hook\\socialsharing.tpl"
+			],
+			[
+				"cu",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"cus",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"cust",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"blocknews",
+				"pos_hugeshop11\\css\\modules\\blocknewsletter\\blocknewsletter.css"
+			],
+			[
+				"customme",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"custo",
+				"ccase\\controllers\\front\\customphone.php"
+			],
+			[
+				"tra",
+				"ccase\\server\\php\\traitement.php"
+			],
+			[
+				"html",
+				"ccase\\api\\html2canvasproxy.php"
+			],
+			[
+				"save",
+				"ccase\\server\\php\\save.php"
+			],
+			[
+				"ccas",
+				"ccase\\js\\ccase.js"
+			],
+			[
+				"ccase.",
+				"ccase\\ccase.php"
+			],
+			[
+				"save.",
+				"ccase\\server\\php\\save.php"
+			],
+			[
+				"feature",
+				"pos_hugeshop11\\modules\\homefeatured\\homefeatured.tpl"
+			],
+			[
+				"posproductca",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"posttab",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"newsletter",
+				"pos_hugeshop11\\modules\\blocknewsletter\\blocknewsletter.tpl"
+			],
+			[
+				"footer",
+				"pos_hugeshop11\\footer.tpl"
+			],
+			[
+				"setpri",
+				"ccase\\setPrice.php"
+			],
+			[
+				"order-carr",
+				"pos_hugeshop11\\order-carrier-advanced.tpl"
+			],
+			[
+				"order-opc-new",
+				"pos_hugeshop11\\order-opc-new-account.tpl"
+			],
+			[
+				"shoppin",
+				"pos_hugeshop11\\shopping-cart-advanced.tpl"
+			],
+			[
+				"shoppi",
+				"pos_hugeshop11\\shopping-cart.tpl"
+			],
+			[
+				"postta",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"category",
+				"pos_hugeshop11\\category.tpl"
+			],
+			[
+				"custome",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"cusotmmen",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"productlist",
+				"pos_hugeshop11\\product-list.tpl"
+			],
+			[
+				"prodcut",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"prodcutlist",
+				"pos_hugeshop11\\product-list.tpl"
+			],
+			[
+				"my-",
+				"pos_hugeshop11\\css\\my-account.css"
+			],
+			[
+				"order",
+				"pos_hugeshop11\\order-address.tpl"
+			],
+			[
+				"blockcart.js",
+				"pos_hugeshop11\\js\\modules\\blockcart\\ajax-cart.js"
+			],
+			[
+				"block",
+				"pos_hugeshop11\\modules\\blockcart\\blockcart.tpl"
+			],
+			[
+				"blockart",
+				"pos_hugeshop11\\css\\modules\\blockcart\\blockcart.css"
+			],
+			[
+				"postabpr",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"posprod",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"product.",
+				"pos_hugeshop11\\product.tpl"
+			],
+			[
+				"pos",
+				"pos_hugeshop11\\modules\\postabproduct\\postabproduct.tpl"
+			],
+			[
+				"products",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"posproductcategory",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"niv",
+				"pos_hugeshop11\\css\\modules\\posslideshow\\css\\nivo-slider\\nivo-slider.css"
+			],
+			[
+				"index.",
+				"pos_hugeshop11\\index.php"
+			],
+			[
+				"head",
+				"pos_hugeshop11\\header.tpl"
+			],
+			[
+				"foote",
+				"pos_hugeshop11\\footer.tpl"
+			],
+			[
+				"manufa",
+				"pos_hugeshop11\\manufacturer.tpl"
+			],
+			[
+				"globla",
+				"pos_hugeshop11\\css\\global.css"
+			],
+			[
+				"blocklayered",
+				"pos_hugeshop11\\modules\\blocklayered\\blocklayered.tpl"
+			],
+			[
+				"productscate",
+				"pos_hugeshop11\\modules\\productscategory\\productscategory.tpl"
+			],
+			[
+				"product.sc",
+				"pos_hugeshop11\\sass\\product.scss"
+			],
+			[
+				"index.tp",
+				"pos_hugeshop11\\index.tpl"
+			],
+			[
+				"blocksearch",
+				"pos_hugeshop11\\css\\modules\\blocksearch\\blocksearch.css"
+			],
+			[
+				"custommenu",
+				"pos_hugeshop11\\css\\modules\\posmegamenu\\css\\custommenu.css"
+			],
+			[
+				"style.scss",
+				"ccase\\css\\stylesheets\\styles.css"
+			],
+			[
+				"serial",
+				"home\\serializers.py"
+			],
+			[
+				"esca",
+				"home\\static\\home\\js\\escapology.js"
+			],
+			[
+				"models",
+				"home\\models.py"
+			],
+			[
+				"admin",
+				"home\\admin.py"
+			],
+			[
+				"seria",
+				"home\\serializers.py"
+			],
+			[
+				"sho",
+				"home\\templates\\home\\shop-index.html"
+			],
+			[
+				"index",
+				"home\\templates\\home\\index.html"
+			],
+			[
+				"gra",
+				"static\\home\\grayscale.css"
+			],
+			[
+				"thank",
+				"home\\templates\\home\\thankyou.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Arnav\\Documents\\escapology-django\\venv\\Escapology-sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
