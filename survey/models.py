@@ -74,7 +74,9 @@ class Question(models.Model):
 
 	def __unicode__(self):
 		return (self.text)
-		
+	
+	def __str__(self):
+		return self.text
 
 
 class Response(models.Model):
@@ -100,7 +102,6 @@ class AnswerBase(models.Model):
 	updated = models.DateTimeField(auto_now=True)
 
 
-
 class AnswerText(AnswerBase):
 	body = models.TextField(blank=True, null=True)
 
@@ -116,3 +117,35 @@ class AnswerSelectMultiple(AnswerBase):
 class AnswerInteger(AnswerBase):
 	body = models.IntegerField(blank=True, null=True)
 
+class AndroidResponse(models.Model):
+	created = models.DateTimeField(auto_now_add=True)
+	updated = models.DateTimeField(auto_now=True)
+	response_text = models.TextField(blank=True, null=True)
+
+	def __unicode__(self):
+		return (self.response_text)
+
+	def __str__(self):
+		return self.response_text
+
+
+
+class UserResponse(models.Model):
+	created = models.DateTimeField(auto_now_add=True)
+	updated = models.DateTimeField(auto_now=True)
+	# survey = models.ForeignKey(Survey)
+	userEmail = models.CharField(max_length=255)
+	userContact = models.CharField(max_length=255)
+	latitude = models.DecimalField('Latitude', max_digits=12, decimal_places=8, blank=True, null=True)
+	longitude = models.DecimalField('Longitude', max_digits=12, decimal_places=8, blank=True, null=True)
+	
+	def __unicode__(self):
+		return (self.userEmail)
+
+	def __str__(self):
+		return self.userEmail
+
+class UserQuestionResponse(models.Model):
+	question = models.TextField(blank=True, null=True)
+	response = models.TextField(blank=True, null=True) 
+	response_of = models.ForeignKey(UserResponse)

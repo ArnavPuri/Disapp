@@ -14,18 +14,18 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+# print PROJECT_ROOT + BASE_DIR
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '(wle#b35oz7cdnig5!v7cr00*m*uwfbvc&#_b$^6*kxs$3otsj'
+SECRET_KEY = '61b0m2Pz4mMQ4krORWRf4QGe5Z2KePjCwWYqCpNreqS1Sn8Heb'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'disApp.urls'
+ROOT_URLCONF = 'disapp.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'disApp.wsgi.application'
+WSGI_APPLICATION = 'disapp.wsgi.application'
 
 
 # Database
@@ -88,10 +88,21 @@ DATABASES = {
             'USER': 'dst',
             'PASSWORD': 'sabthikhai',
             'HOST': 'localhost',
-            'PORT': '5432',
+            'PORT': '',
 
         }
     }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'django',
+#         'USER': 'django',
+#         'PASSWORD': '8I9KwcU5y6',
+#         'HOST': 'localhost',
+#         'PORT': '',
+#     }
+# }
 
 
 # Password validation
@@ -131,3 +142,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+#STATIC_ROOT = '/home/django/disApp/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, "static/")
+
+# STATICFILES_FINDERS = (
+# 'django.contrib.staticfiles.finders.FileSystemFinder',
+# 'django.contrib.staticfiles.finders.AppDirectoriesFinder'
+# )
+# STATICFILES_DIRS = (
+#     os.path.join(BASE_DIR, "static"),
+# ) 

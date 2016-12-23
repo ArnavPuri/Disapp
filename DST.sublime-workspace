@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
+				"body",
+				"body_unicode"
+			],
+			[
+				"resp",
+				"response_text"
+			],
+			[
+				"An",
+				"AnswerSerializer〔class〕"
+			],
+			[
+				"A",
+				"AnswerText〔class〕"
+			],
+			[
+				"man",
+				"many=True"
+			],
+			[
+				"Res",
+				"ResponseSerializer〔module〕"
+			],
+			[
 				"Qu",
 				"QuestionSerializer〔class〕"
 			],
 			[
 				"__",
 				"__all__"
-			],
-			[
-				"Res",
-				"ResponseSerializer"
 			],
 			[
 				"Sur",
@@ -404,19 +424,19 @@
 	"buffers":
 	[
 		{
-			"file": "survey/views.py",
+			"file": "disApp/settings.py",
 			"settings":
 			{
-				"buffer_size": 2500,
+				"buffer_size": 4064,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "disApp/urls.py",
+			"file": "survey/views.py",
 			"settings":
 			{
-				"buffer_size": 818,
+				"buffer_size": 3764,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -425,32 +445,25 @@
 			"file": "survey/serializers.py",
 			"settings":
 			{
-				"buffer_size": 517,
+				"buffer_size": 753,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "survey/models.py",
+			"file": "survey/urls.py",
 			"settings":
 			{
-				"buffer_size": 3327,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "survey/forms.py",
-			"settings":
-			{
-				"buffer_size": 3953,
+				"buffer_size": 475,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "survey/templates/survey/survey.html",
+			"file": "survey/templates/survey/confirm.html",
 			"settings":
 			{
-				"buffer_size": 2688,
+				"buffer_size": 123,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -459,9 +472,45 @@
 			"file": "survey/templates/survey/index.html",
 			"settings":
 			{
-				"buffer_size": 3033,
+				"buffer_size": 3190,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/templates/survey/survey.html",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/forms.py",
+			"settings":
+			{
+				"buffer_size": 3949,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "survey/models.py",
+			"settings":
+			{
+				"buffer_size": 3659,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "survey/admin.py",
+			"settings":
+			{
+				"buffer_size": 1363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -567,17 +616,36 @@
 	"expanded_folders":
 	[
 		"/D/Passion Projects/DST/disApp",
-		"/D/Passion Projects/DST/disApp/survey"
+		"/D/Passion Projects/DST/disApp/staticfiles",
+		"/D/Passion Projects/DST/disApp/survey",
+		"/D/Passion Projects/DST/disApp/survey/templates",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey"
 	],
 	"file_history":
 	[
-		"/D/Passion Projects/CSGOSell/csgosell/templates/base.html",
-		"/C/Users/Arnav/AppData/Local/Temp/Temp1_python-getting-started-master.zip/python-getting-started-master/app.json",
 		"/D/Passion Projects/DST/disApp/survey/urls.py",
+		"/D/Passion Projects/DST/disApp/disapp/urls.py",
+		"/D/Passion Projects/DST/disApp/survey/views.py",
 		"/D/Passion Projects/DST/disApp/disApp/settings.py",
+		"/D/Passion Projects/DST/disapp-android/app/src/main/assets/example_survey_1.json",
+		"/D/Passion Projects/DST/disApp/disApp/nginx.conf",
+		"/D/Passion Projects/DST/disApp/disApp/django",
+		"/D/Passion Projects/DST/disApp/disApp/default",
+		"/D/Passion Projects/DST/disApp/disApp/gunicorn.conf",
+		"/D/Passion Projects/DST/wsgi.py",
+		"/D/Passion Projects/DST/settings.py",
+		"/D/Passion Projects/DST/manage.py",
 		"/D/Passion Projects/DST/disApp/disApp/urls.py",
 		"/D/Passion Projects/DST/disApp/survey/models.py",
+		"/D/Passion Projects/DST/disApp/.gitignore",
+		"/D/Passion Projects/DST/disApp/survey/serializers.py",
 		"/D/Passion Projects/DST/disApp/survey/forms.py",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey/survey.html",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey/index.html",
+		"/C/Users/Arnav/Desktop/nginx.conf",
+		"/C/Users/Arnav/Desktop/django",
+		"/D/Passion Projects/CSGOSell/csgosell/templates/base.html",
+		"/C/Users/Arnav/AppData/Local/Temp/Temp1_python-getting-started-master.zip/python-getting-started-master/app.json",
 		"/D/Passion Projects/DST/disApp/survey/admin.py",
 		"/D/Passion Projects/CSGOSell/csgosell/x.html",
 		"/C/Users/Arnav/Documents/escapology-django/Escapology/home/templates/home/index.html",
@@ -682,23 +750,7 @@
 		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocknewsletter/blocknewsletter.tpl",
 		"/D/Learning/fitness app/index.html",
 		"/D/Learning/fitness app/firebase-script.js",
-		"/D/NetworkMedia-Celfie/AmazonServer/.htaccess",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/css/modules/postabproduct/postabproduct.css",
-		"/C/wamp/www/prestashop/modules/postabproduct/postabproduct.tpl",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/shopping-cart-advanced.tpl",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/shopping-cart-product-line.tpl",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-carrier-advanced.tpl",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-opc-new-account.tpl",
-		"/C/wamp/www/prestashop/classes/pdf/HTMLTemplateDeliverySlip.php",
-		"/C/wamp/www/prestashop/pdf/invoice-b2b.tpl",
-		"/C/wamp/www/prestashop/pdf/delivery-slip.payment-tab.tpl",
-		"/C/wamp/www/prestashop/pdf/delivery-slip.tpl",
-		"/C/wamp/www/prestashop/classes/pdf/index.php",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/category.tpl",
-		"/C/wamp/www/prestashop/modules/posmegamenu/js/mobile_menu.js",
-		"/C/wamp/www/prestashop/config/smarty.config.inc.php",
-		"/C/wamp/www/settings.inc.php",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/order-address.tpl"
+		"/D/NetworkMedia-Celfie/AmazonServer/.htaccess"
 	],
 	"find":
 	{
@@ -728,6 +780,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"AnswerText",
+			"dict",
+			"    \n",
+			"static",
 			"brand-selector-mobile",
 			"loadDevices",
 			"select devi",
@@ -851,11 +907,7 @@
 			"popup",
 			"class=\"itemMenuName",
 			"id=\"pt_custommenu\"",
-			"itemMenuName",
-			".tab-content",
-			"editor-menu",
-			"mobile-editor-menu",
-			"Editor-menu"
+			"itemMenuName"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -874,54 +926,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "survey/views.py",
+					"file": "disApp/settings.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2500,
+						"buffer_size": 4064,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2469,
-								2469
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1147.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "disApp/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 818,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
+								2528,
+								2528
 							]
 						],
 						"settings":
@@ -932,10 +954,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1429.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "survey/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1420,
+								1420
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -944,54 +996,53 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 517,
+						"buffer_size": 753,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								517,
-								517
+								753,
+								753
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"auto_name": "",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 340.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "survey/models.py",
+					"file": "survey/urls.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3327,
+						"buffer_size": 475,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								984,
-								988
+								472,
+								472
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 597.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -999,78 +1050,19 @@
 				},
 				{
 					"buffer": 4,
-					"file": "survey/forms.py",
+					"file": "survey/templates/survey/confirm.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3953,
+						"buffer_size": 123,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": -0.0,
-						"translation.y": 180.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "survey/templates/survey/survey.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2688,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1911,
-								1916
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1451.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "survey/templates/survey/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3033,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2393,
-								2393
+								102,
+								102
 							]
 						],
 						"settings":
@@ -1080,10 +1072,161 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1347.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "survey/templates/survey/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2672,
+								2672
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1537.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "survey/templates/survey/survey.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1944,
+								1944
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "survey/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2845,
+								2845
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "survey/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3659,
+								3659
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "survey/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1146,16 +1289,40 @@
 		"selected_items":
 		[
 			[
-				"f",
-				"survey\\forms.py"
+				"ad",
+				"survey\\admin.py"
+			],
+			[
+				"ur",
+				"survey\\urls.py"
 			],
 			[
 				"mod",
 				"survey\\models.py"
 			],
 			[
+				"form",
+				"survey\\forms.py"
+			],
+			[
+				"ulrs",
+				"survey\\urls.py"
+			],
+			[
 				"urls",
-				"disApp\\urls.py"
+				"disapp\\urls.py"
+			],
+			[
+				"s",
+				"disapp\\settings.py"
+			],
+			[
+				"view",
+				"survey\\views.py"
+			],
+			[
+				"f",
+				"survey\\forms.py"
 			],
 			[
 				"mode",
@@ -1632,30 +1799,6 @@
 			[
 				"models",
 				"home\\models.py"
-			],
-			[
-				"admin",
-				"home\\admin.py"
-			],
-			[
-				"seria",
-				"home\\serializers.py"
-			],
-			[
-				"sho",
-				"home\\templates\\home\\shop-index.html"
-			],
-			[
-				"index",
-				"home\\templates\\home\\index.html"
-			],
-			[
-				"gra",
-				"static\\home\\grayscale.css"
-			],
-			[
-				"thank",
-				"home\\templates\\home\\thankyou.html"
 			]
 		],
 		"width": 0.0

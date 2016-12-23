@@ -69,7 +69,7 @@ class ResponseForm(models.ModelForm):
 
 		# create an answer object for each question and associate it with this
 		# response.
-		for field_name, field_value in self.cleaned_data.iteritems():
+		for field_name, field_value in self.cleaned_data.items():
 			if field_name.startswith("question_"):
 				# warning: this way of extracting the id is very fragile and
 				# entirely dependent on the way the question_id is encoded in the
