@@ -1,5 +1,5 @@
 from django.contrib import admin
-from survey.models import Question, Survey, Response, AnswerText, AnswerRadio, AnswerSelect, AnswerInteger, AnswerSelectMultiple, AndroidResponse, UserResponse, UserQuestionResponse
+from survey.models import Question, Survey, Response, AnswerText, AnswerRadio, AnswerSelect, AnswerInteger, AnswerSelectMultiple, AndroidResponse, UserResponse, UserQuestionResponse, UserFeedback
 # Register your models here.
 
 
@@ -57,4 +57,6 @@ admin.site.register(Survey, SurveyAdmin)
 # admin.site.register(Response, ResponseAdmin)
 
 admin.site.register(UserResponse, AndroidResponseAdmin)
+
+admin.site.register(UserFeedback)
 # admin.site.register(AndroidResponse)

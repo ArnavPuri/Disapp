@@ -149,3 +149,13 @@ class UserQuestionResponse(models.Model):
 	question = models.TextField(blank=True, null=True)
 	response = models.TextField(blank=True, null=True) 
 	response_of = models.ForeignKey(UserResponse)
+
+
+class UserFeedback(models.Model):
+	created = models.DateTimeField(auto_now_add=True)
+	updated = models.DateTimeField(auto_now=True)
+
+	userEmail = models.CharField(max_length=255)
+	userContact = models.CharField(max_length=255)
+	rating = models.DecimalField(max_digits=4, decimal_places=3, blank=True, null=True)
+	feedback = models.TextField(blank=True, null=True)
