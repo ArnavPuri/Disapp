@@ -27,12 +27,12 @@ and
 - All the structures are defined here
 
 ***Survey Model***
-This consist of a name and description field and this model act as a foreign key for other models like,  questions and responses.
+- This consist of a name and description field and this model act as a foreign key for other models like,  questions and responses.
 
 ***Question model***
-Multiple question types are defined in this model. We can have text question, integer question etc.
+- Multiple question types are defined in this model. We can have text question, integer question etc.
 
 ***User Response and User Question Response***
-These models are used to handle the response from Android users
+- These models are used to handle the response from Android users
 	
 
