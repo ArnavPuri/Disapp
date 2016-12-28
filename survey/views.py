@@ -64,15 +64,9 @@ def AndroidSubmit(request):
 
 @csrf_exempt
 def AndroidSubmitV2(request):
-	# requestbody = 
-	#  '[{"How many mosquitos have you noticed (seen or heard) during the last two days while you were at home?":"Very few (1-2)","Have you seen mosquitoes with white stripes on it\'s body and legs during the last two days while you were at home?":"No","Approximately how many mosquito bites have you received in the last two days while you were at home?":"Some (3-10)","Including you, how many members of your family while staying at home with you have gotten dengue in the last one year?":"2","Have you heard of any cases of dengue in your neighborhood in the last one month, including cases in local hospitals?":"Some (3-10)"},{"latitude":19.1068386,"longitude":72.898207,"useremail":"arnav@teachcoder.in","contact":"8879046058"}]''
-	# body.decode('utf-8')
-	
 	if request.method == 'POST':
 		body_unicode = request.body
 		body = json.loads(body_unicode)
-	# body = request.body
-	# body_unicode = requestbody.decode('utf-8')
 		userContact = body[1]['contact']
 		userEmail = body[1]['useremail']
 		userLatitude = body[1]['latitude']
@@ -154,4 +148,17 @@ def response_detail(request, pk):
 
 
 
-
+@csrf_exempt
+def submit_feedback(request):
+	if request.method == 'POST':
+		body_unicode = request.body
+		body = json.loads(body_unicode)
+		userContact = body['contact']
+		userEmail = body['useremail']
+		userRating = body['rating']
+		feedback = body['feedback']
+		UserFeedback.objects.create(userEmail=userEmail, userContact=userContact, rating=userRating, feedback=feedback)
+		return HttpResponse("OK", content_type='json')
+	else:
+		return HttpResponse("Not Ok", content_type='json')
+	return HttpResponse("not ok", content_type='json')

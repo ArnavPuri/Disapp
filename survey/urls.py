@@ -12,4 +12,6 @@ urlpatterns =[
 	url(r'^api/response/(?P<pk>[0-9]+)/$', views.response_detail),
 	url(r'^androidresponse$', views.AndroidSubmit),
 	url(r'^androidresponseV2$', views.AndroidSubmitV2),
+	url(r'^androidfeedback$', views.submit_feedback),
+
 ]

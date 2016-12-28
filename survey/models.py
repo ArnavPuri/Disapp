@@ -141,7 +141,6 @@ class UserResponse(models.Model):
 	
 	def __unicode__(self):
 		return (self.userEmail)
-
 	def __str__(self):
 		return self.userEmail
 
@@ -150,6 +149,12 @@ class UserQuestionResponse(models.Model):
 	response = models.TextField(blank=True, null=True) 
 	response_of = models.ForeignKey(UserResponse)
 
+	def __unicode__(self):
+		return (self.response_of.userEmail)
+
+	def __str__(self):
+		return self.response_of.userEmail
+
 
 class UserFeedback(models.Model):
 	created = models.DateTimeField(auto_now_add=True)
@@ -157,5 +162,5 @@ class UserFeedback(models.Model):
 
 	userEmail = models.CharField(max_length=255)
 	userContact = models.CharField(max_length=255)
-	rating = models.DecimalField(max_digits=4, decimal_places=3, blank=True, null=True)
+	rating = models.DecimalField(max_digits=4, decimal_places=2, blank=True, null=True)
 	feedback = models.TextField(blank=True, null=True)

@@ -45,7 +45,7 @@ class UserAnswerInline(admin.StackedInline):
 	model = UserQuestionResponse
 
 class AndroidResponseAdmin(admin.ModelAdmin):
-	list_display = ('created',)
+	list_display = ('userEmail', 'userContact')
 	inlines = [UserAnswerInline]
 	readonly_fields = ('created', 'updated', 'latitude', 'longitude')
 

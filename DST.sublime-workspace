@@ -4,8 +4,32 @@
 		"selected_items":
 		[
 			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"user",
+				"userEmail"
+			],
+			[
+				"req",
+				"requestbody"
+			],
+			[
+				"User",
+				"UserQuestionResponse〔module〕"
+			],
+			[
 				"body",
-				"body_unicode"
+				"body"
+			],
+			[
+				"Android",
+				"AndroidResponseV2〔class〕"
+			],
+			[
+				"Androird",
+				"AndroidResponseAdmin"
 			],
 			[
 				"resp",
@@ -276,10 +300,6 @@
 				"function〔keyword〕"
 			],
 			[
-				"req",
-				"requestUrl〔argument〕"
-			],
-			[
 				"wr",
 				"writeExercises"
 			],
@@ -427,7 +447,7 @@
 			"file": "disApp/settings.py",
 			"settings":
 			{
-				"buffer_size": 4064,
+				"buffer_size": 4075,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -436,79 +456,16 @@
 			"file": "survey/views.py",
 			"settings":
 			{
-				"buffer_size": 3764,
+				"buffer_size": 5342,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "survey/serializers.py",
-			"settings":
-			{
-				"buffer_size": 753,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "survey/urls.py",
-			"settings":
-			{
-				"buffer_size": 475,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "survey/templates/survey/confirm.html",
-			"settings":
-			{
-				"buffer_size": 123,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "survey/templates/survey/index.html",
-			"settings":
-			{
-				"buffer_size": 3190,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "survey/templates/survey/survey.html",
-			"settings":
-			{
-				"buffer_size": 2837,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "survey/forms.py",
-			"settings":
-			{
-				"buffer_size": 3949,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "survey/models.py",
 			"settings":
 			{
-				"buffer_size": 3659,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "survey/admin.py",
-			"settings":
-			{
-				"buffer_size": 1363,
+				"buffer_size": 4786,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -616,13 +573,20 @@
 	"expanded_folders":
 	[
 		"/D/Passion Projects/DST/disApp",
-		"/D/Passion Projects/DST/disApp/staticfiles",
-		"/D/Passion Projects/DST/disApp/survey",
-		"/D/Passion Projects/DST/disApp/survey/templates",
 		"/D/Passion Projects/DST/disApp/survey/templates/survey"
 	],
 	"file_history":
 	[
+		"/D/Passion Projects/DST/disApp/survey/admin.py",
+		"/D/Passion Projects/DST/disApp/.gitignore",
+		"/C/Users/Arnav/Desktop/views.py",
+		"/D/Passion Projects/DST/disApp/survey/serializers.py",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey/confirm.html",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey/index.html",
+		"/D/Passion Projects/DST/disApp/survey/templates/survey/survey.html",
+		"/D/Passion Projects/DST/disApp/survey/forms.py",
+		"/D/Passion Projects/DST/disApp/survey/models.py",
+		"/D/Passion Projects/DST/disApp/manage.py",
 		"/D/Passion Projects/DST/disApp/survey/urls.py",
 		"/D/Passion Projects/DST/disApp/disapp/urls.py",
 		"/D/Passion Projects/DST/disApp/survey/views.py",
@@ -636,17 +600,10 @@
 		"/D/Passion Projects/DST/settings.py",
 		"/D/Passion Projects/DST/manage.py",
 		"/D/Passion Projects/DST/disApp/disApp/urls.py",
-		"/D/Passion Projects/DST/disApp/survey/models.py",
-		"/D/Passion Projects/DST/disApp/.gitignore",
-		"/D/Passion Projects/DST/disApp/survey/serializers.py",
-		"/D/Passion Projects/DST/disApp/survey/forms.py",
-		"/D/Passion Projects/DST/disApp/survey/templates/survey/survey.html",
-		"/D/Passion Projects/DST/disApp/survey/templates/survey/index.html",
 		"/C/Users/Arnav/Desktop/nginx.conf",
 		"/C/Users/Arnav/Desktop/django",
 		"/D/Passion Projects/CSGOSell/csgosell/templates/base.html",
 		"/C/Users/Arnav/AppData/Local/Temp/Temp1_python-getting-started-master.zip/python-getting-started-master/app.json",
-		"/D/Passion Projects/DST/disApp/survey/admin.py",
 		"/D/Passion Projects/CSGOSell/csgosell/x.html",
 		"/C/Users/Arnav/Documents/escapology-django/Escapology/home/templates/home/index.html",
 		"/D/Passion Projects/TwitterBot/package.json",
@@ -747,10 +704,7 @@
 		"/C/wamp/www/prestashop/modules/ccase/setPrice.php",
 		"/C/wamp/www/prestashop/modules/ccase/server/php/UploadHandler.php",
 		"/C/wamp/www/prestashop/themes/pos_hugeshop11/footer.tpl",
-		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocknewsletter/blocknewsletter.tpl",
-		"/D/Learning/fitness app/index.html",
-		"/D/Learning/fitness app/firebase-script.js",
-		"/D/NetworkMedia-Celfie/AmazonServer/.htaccess"
+		"/C/wamp/www/prestashop/themes/pos_hugeshop11/modules/blocknewsletter/blocknewsletter.tpl"
 	],
 	"find":
 	{
@@ -780,6 +734,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"AnswerBaseInline",
+			"djangoproj",
 			"AnswerText",
 			"dict",
 			"    \n",
@@ -905,9 +861,7 @@
 			"select",
 			"img",
 			"popup",
-			"class=\"itemMenuName",
-			"id=\"pt_custommenu\"",
-			"itemMenuName"
+			"class=\"itemMenuName"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -926,7 +880,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -935,15 +889,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4064,
+						"buffer_size": 4075,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2528,
-								2528
+								2648,
+								2648
 							]
 						],
 						"settings":
@@ -954,10 +908,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1429.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -966,15 +920,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3764,
+						"buffer_size": 5342,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1420,
-								1420
+								274,
+								274
 							]
 						],
 						"settings":
@@ -983,65 +937,7 @@
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 716.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "survey/serializers.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 753,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								753,
-								753
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 340.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "survey/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
+						"translation.x": 475.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -1049,141 +945,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "survey/templates/survey/confirm.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 123,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								102,
-								102
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "survey/templates/survey/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3190,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2672,
-								2672
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1537.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "survey/templates/survey/survey.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2837,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1944,
-								1944
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 186.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "survey/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3949,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2845,
-								2845
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 233.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
+					"buffer": 2,
 					"file": "survey/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3659,
+						"buffer_size": 4786,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3659,
-								3659
+								4785,
+								4785
 							]
 						],
 						"settings":
@@ -1193,40 +968,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2106.0,
+						"translation.y": 2473.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "survey/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1363,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1363,
-								1363
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 600.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1234,7 +979,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -1279,7 +1024,7 @@
 	"project": "DST.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1288,6 +1033,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"admi",
+				"survey\\admin.py"
+			],
+			[
+				"mode",
+				"survey\\models.py"
+			],
+			[
+				"views",
+				"survey\\views.py"
+			],
+			[
+				"urls",
+				"survey\\urls.py"
+			],
 			[
 				"ad",
 				"survey\\admin.py"
@@ -1309,10 +1070,6 @@
 				"survey\\urls.py"
 			],
 			[
-				"urls",
-				"disapp\\urls.py"
-			],
-			[
 				"s",
 				"disapp\\settings.py"
 			],
@@ -1325,20 +1082,12 @@
 				"survey\\forms.py"
 			],
 			[
-				"mode",
-				"survey\\models.py"
-			],
-			[
 				"adm",
 				"survey\\admin.py"
 			],
 			[
 				"for",
 				"survey\\forms.py"
-			],
-			[
-				"views",
-				"survey\\views.py"
 			],
 			[
 				"set",
@@ -1795,10 +1544,6 @@
 			[
 				"esca",
 				"home\\static\\home\\js\\escapology.js"
-			],
-			[
-				"models",
-				"home\\models.py"
 			]
 		],
 		"width": 0.0
