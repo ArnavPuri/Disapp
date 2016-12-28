@@ -1,5 +1,5 @@
 .env
-*.sublime-project
-*.sublime-workspace
+DST.sublime-project
+DST.sublime-workspace
 *.pyc
 venv/*
