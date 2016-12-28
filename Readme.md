@@ -24,7 +24,8 @@ and
 - Views (logic) is bind with the urls here
 
 ### models.py
-- All the structures are defined here 
+- All the structures are defined here
+
 ***Survey Model***
 This consist of a name and description field and this model act as a foreign key for other models like,  questions and responses.
 
